@@ -6,6 +6,8 @@ This repository contains organized Go implementations of LeetCode Data Structure
 
 ### Array Problems
 
+-   **Next Permutation** [#31 LeetCode](https://leetcode.com/problems/next-permutation/?envType=problem-list-v2&envId=array) , [NextPermutation.go](./Src/LeetCode/NextPermutation.go)
+-   **Remove Element** [#27 LeetCode](https://leetcode.com/problems/remove-element/description/?envType=problem-list-v2&envId=array) , [RemoveElement.go](./Src/LeetCode/RemoveElement.go)
 -   **Remove Duplicates from Sorted Array** [#26 LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/?envType=problem-list-v2&envId=array) , [RemoveDuplicatesfromSortedArray.go](./Src/LeetCode/RemoveDuplicatesfromSortedArray.go)
 -   **4Sum** [#18 LeetCode](https://leetcode.com/problems/3sum-closest/description/?envType=problem-list-v2&envId=array) , [4Sum.go](./Src/LeetCode/4Sum.go)
 -   **3Sum Closest** [#16 LeetCode](https://leetcode.com/problems/3sum-closest/description/?envType=problem-list-v2&envId=array) , [3SumClosest.go](./Src/LeetCode/3SumClosest.go)
