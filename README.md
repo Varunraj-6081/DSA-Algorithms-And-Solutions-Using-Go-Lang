@@ -4,6 +4,11 @@ This repository contains organized Go implementations of LeetCode Data Structure
 
 ## Table of Contents
 
+### Array Problems
+
+-   **Count Negative Numbers in a Sorted Matrix:** [#1351 LeetCode](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/description/?envType=problem-list-v2&envId=array) , [CountNegativeNumbersInSortedArray.go](./Src/LeetCode/CountNegativeNumbersInSortedArray.go)
+
+
 ### Stack Problems
 
 -   **Daily Temperatures:** [#739 LeetCode](https://leetcode.com/problems/daily-temperatures/description/) , [DailyTemperature.go](./Src/LeetCode//DailyTemperature.go)
