@@ -7,4 +7,4 @@ This repository contains organized Go implementations of LeetCode Data Structure
 ### Stack Problems
 
 -   **Daily Temperatures:** [#739 LeetCode](https://leetcode.com/problems/daily-temperatures/description/) , [DailyTemperature.go](./Src/LeetCode//DailyTemperature.go)
-
+-   **Remove Outermost Parentheses:** [#1021 LeetCode](https://leetcode.com/problems/remove-outermost-parentheses/description/) , [RemoveOutermostParaentheses.go](./Src/LeetCode/RemoveOutermostParaentheses.go)
